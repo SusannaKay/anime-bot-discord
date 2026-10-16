@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Runtime data (users, cards, achievements)
+*.db
+*.db.bak*
+
+# Downloaded images: generate them with scripts/scrape_images.py
+images/
+
+# macOS
+.DS_Store

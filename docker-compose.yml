@@ -1,0 +1,11 @@
+services:
+  anime-card-bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: anime-card-bot
+    env_file:
+      - .env
+    restart: unless-stopped
+    volumes:
+      - .:/app

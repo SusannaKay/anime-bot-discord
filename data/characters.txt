@@ -1,0 +1,416 @@
+# Character list for the bot.
+# Import it with: python3 scripts/import_characters.py data/characters.txt
+#
+# Format: Anime -- rarity -- Name 1, Name 2, ...
+# Rarity is one of: common, rare, epic.
+# Lines that start with "#" and lines without "--" are ignored,
+# so the "— Anime" headers below are just there to keep the list readable.
+
+— Akame ga Kill
+
+Akame ga Kill -- common -- Akame, Tatsumi
+Akame ga Kill -- rare -- Mine, Leone
+Akame ga Kill -- epic -- Esdeath
+
+— Assassination Classroom
+
+Assassination Classroom -- common -- Koro-sensei, Nagisa Shiota
+Assassination Classroom -- rare -- Karma Akabane, Irina Jelavic
+Assassination Classroom -- epic -- Tadaomi Karasuma
+
+— Attack on Titan
+
+Attack on Titan -- common -- Eren Yeager, Mikasa Ackerman, Levi Ackerman, Armin Arlert
+Attack on Titan -- rare -- Erwin Smith, Zeke Jaeger, Hange Zoe, Sasha Blouse
+Attack on Titan -- epic -- Historia Reiss, Porco Galliard, Dot Pixis
+
+— Avatar
+
+Avatar -- common -- Aang, Korra
+Avatar -- rare -- Katara, Sokka
+Avatar -- epic -- Zuko
+
+— Berserk
+
+Berserk -- common -- Guts, Griffith
+Berserk -- rare -- Casca, Puck
+Berserk -- epic -- Judeau
+
+— Black Clover
+
+Black Clover -- common -- Asta, Yuno
+Black Clover -- rare -- Noelle Silva, Yami Sukehiro
+Black Clover -- epic -- Luck Voltia
+
+— Bleach
+
+Bleach -- common -- Ichigo Kurosaki, Rukia Kuchiki
+Bleach -- rare -- Renji Abarai, Orihime Inoue
+Bleach -- epic -- Uryu Ishida
+
+— Blue Lock
+
+Blue Lock -- common -- Yoichi Isagi
+Blue Lock -- rare -- Meguru Bachira
+Blue Lock -- epic -- Hyoma Chigiri
+
+— Bocchi the Rock
+
+Bocchi the Rock -- common -- Hitori "Bocchi" Gotoh, Nijika Ijichi
+Bocchi the Rock -- rare -- Ryo Yamada, Ikuyo Kita
+
+— Call of the Night
+
+Call of the Night -- common -- Kou Yamori, Nazuna Nanakusa
+Call of the Night -- rare -- Anko Uguisu
+Call of the Night -- epic -- Seri Kyouko, Hatsuka Suzushiro
+
+— Chainsaw Man
+
+Chainsaw Man -- common -- Denji, Makima
+Chainsaw Man -- rare -- Power
+Chainsaw Man -- epic -- Aki Hayakawa, Pochita
+
+— Code Geass
+
+Code Geass -- common -- Lelouch Lamperouge, C.C.
+Code Geass -- rare -- Suzaku Kururugi, Kallen Stadtfeld
+Code Geass -- epic -- Shirley Fenette
+
+— Cowboy Bebop
+
+Cowboy Bebop -- common -- Spike Spiegel, Jet Black
+Cowboy Bebop -- rare -- Faye Valentine, Edward
+Cowboy Bebop -- epic -- Ein
+
+— Cyberpunk: Edgerunners
+
+Cyberpunk: Edgerunners -- common -- David Martinez, Lucy
+Cyberpunk: Edgerunners -- rare -- Rebecca
+Cyberpunk: Edgerunners -- epic -- Falco
+
+— Dandadan
+
+Dandadan -- common -- Ken Takakura, Momo Ayase
+Dandadan -- rare -- Turbo Granny
+Dandadan -- epic -- Aira Shiratori, Jin Enjoji
+
+— Darling in the Franxx
+
+Darling in the Franxx -- common -- Hiro, Zero Two
+Darling in the Franxx -- rare -- Ichigo
+Darling in the Franxx -- epic -- Goro
+
+— Death Note
+
+Death Note -- common -- Light Yagami, L
+Death Note -- rare -- Ryuk
+Death Note -- epic -- Misa Amane
+
+— Demon Slayer
+
+Demon Slayer -- common -- Tanjiro Kamado, Nezuko Kamado
+Demon Slayer -- rare -- Zenitsu Agatsuma, Inosuke Hashibira
+Demon Slayer -- epic -- Muzan Kibutsuji
+
+— Detective Conan
+
+Detective Conan -- common -- Conan Edogawa, Ran Mouri
+Detective Conan -- rare -- Kogoro Mouri
+Detective Conan -- epic -- Ai Haibara
+
+— Devilman Crybaby
+
+Devilman Crybaby -- common -- Akira Fudo
+Devilman Crybaby -- rare -- Ryo Asuka
+Devilman Crybaby -- epic -- Miki Makimura
+
+— Dororo
+
+Dororo -- common -- Dororo
+Dororo -- rare -- Hyakkimaru
+Dororo -- epic -- Tahomaru
+
+— Dr. Stone
+
+Dr. Stone -- common -- Senku Ishigami, Taiju Oki
+Dr. Stone -- rare -- Yuzuriha, Chrome
+Dr. Stone -- epic -- Kohaku
+
+— Dragon Ball
+
+Dragon Ball -- common -- Goku, Vegeta, Gohan, Trunks
+Dragon Ball -- rare -- Krillin, Android 18, Frieza
+Dragon Ball -- epic -- Gogeta, Broly
+
+— Erased
+
+Erased -- common -- Satoru Fujinuma
+Erased -- rare -- Kayo Hinazuki
+Erased -- epic -- Kenya Kobayashi
+
+— Fairy Tail
+
+Fairy Tail -- common -- Natsu Dragneel, Lucy Heartfilia
+Fairy Tail -- rare -- Gray Fullbuster, Erza Scarlet
+Fairy Tail -- epic -- Happy
+
+— Fate
+
+Fate -- common -- Shirou Emiya, Saber
+Fate -- rare -- Rin Tohsaka
+Fate -- epic -- Archer
+
+— Frieren
+
+Frieren -- common -- Frieren, Fern
+Frieren -- rare -- Himmel
+Frieren -- epic -- Stark
+
+— Fullmetal Alchemist
+
+Fullmetal Alchemist -- common -- Edward Elric, Alphonse Elric
+Fullmetal Alchemist -- rare -- Roy Mustang, Winry Rockbell
+Fullmetal Alchemist -- epic -- Riza Hawkeye
+
+— Gintama
+
+Gintama -- common -- Gintoki Sakata, Shinpachi Shimura
+Gintama -- rare -- Kagura, Hijikata Toshiro
+Gintama -- epic -- Sougo Okita
+
+— Given
+
+Given -- common -- Mafuyu Sato, Ritsuka Uenoyama
+Given -- rare -- Haruki Nakayama, Akihiko Kaji
+Given -- epic -- Hiiragi Kashima
+
+— Haikyuu
+
+Haikyuu -- common -- Shoyo Hinata, Tobio Kageyama
+Haikyuu -- rare -- Daichi Sawamura, Kenma Kozume
+Haikyuu -- epic -- Tetsuro Kuroo
+
+— Hunter x Hunter
+
+Hunter x Hunter -- common -- Gon Freecss, Killua Zoldyck
+Hunter x Hunter -- rare -- Kurapika
+Hunter x Hunter -- epic -- Leorio
+
+— Inuyasha
+
+Inuyasha -- common -- Inuyasha, Kagome
+Inuyasha -- rare -- Kikyo
+Inuyasha -- epic -- Miroku, Sango
+
+— JoJo’s Bizarre Adventure
+
+JoJo’s Bizarre Adventure -- common -- Jotaro Kujo, Joseph Joestar
+JoJo’s Bizarre Adventure -- rare -- Dio Brando, Josuke Higashikata
+JoJo’s Bizarre Adventure -- epic -- Koichi Hirose
+
+— Jujutsu Kaisen
+
+Jujutsu Kaisen -- common -- Yuji Itadori, Satoru Gojo, Sukuna
+Jujutsu Kaisen -- rare -- Nobara Kugisaki, Megumi Fushiguro
+Jujutsu Kaisen -- epic -- Maki Zen'in
+
+— Kaguya-sama: Love is War
+
+Kaguya-sama: Love is War -- common -- Kaguya Shinomiya, Miyuki Shirogane
+Kaguya-sama: Love is War -- rare -- Chika Fujiwara
+Kaguya-sama: Love is War -- epic -- Yu Ishigami
+
+— Kaiju No. 8
+
+Kaiju No. 8 -- common -- Kafka Hibino, Mina Ashiro
+Kaiju No. 8 -- rare -- Kikoru Shinomiya
+Kaiju No. 8 -- epic -- Reno Ichikawa
+
+— Lady Oscar
+
+Lady Oscar -- common -- Oscar François de Jarjayes, André Grandier
+Lady Oscar -- rare -- Marie Antoinette, Rosalie Lamorlière
+Lady Oscar -- epic -- Girodel
+
+— Made in Abyss
+
+Made in Abyss -- common -- Riko, Reg
+Made in Abyss -- rare -- Nanachi, Bondrewd
+Made in Abyss -- epic -- Mitty
+
+— Mob Psycho 100
+
+Mob Psycho 100 -- common -- Shigeo "Mob" Kageyama, Reigen Arataka
+Mob Psycho 100 -- rare -- Ritsu Kageyama, Teruki Hanazawa
+Mob Psycho 100 -- epic -- Dimple
+
+— Monster
+
+Monster -- common -- Kenzo Tenma, Johan Liebert
+Monster -- rare -- Nina Fortner, Inspector Lunge
+Monster -- epic -- Eva Heinemann
+
+— Mushoku Tensei
+
+Mushoku Tensei -- common -- Rudeus Greyrat, Eris Boreas
+Mushoku Tensei -- rare -- Roxy Migurdia, Sylphiette
+Mushoku Tensei -- epic -- Ruijerd Superdia
+
+— My Dress-Up Darling
+
+My Dress-Up Darling -- common -- Marin Kitagawa
+My Dress-Up Darling -- rare -- Wakana Gojo
+My Dress-Up Darling -- epic -- Akira Ogata
+
+— My Hero Academia
+
+My Hero Academia -- common -- Izuku Midoriya, Katsuki Bakugo
+My Hero Academia -- rare -- Shoto Todoroki, All Might
+My Hero Academia -- epic -- Ochaco Uraraka
+
+— Naruto
+
+Naruto -- common -- Naruto Uzumaki, Sasuke Uchiha
+Naruto -- rare -- Sakura Haruno, Kakashi Hatake
+Naruto -- epic -- Pain, Deidara
+
+— Neon Genesis Evangelion
+
+Neon Genesis Evangelion -- common -- Shinji Ikari, Asuka Langley
+Neon Genesis Evangelion -- rare -- Rei Ayanami, Misato Katsuragi
+Neon Genesis Evangelion -- epic -- Kaworu Nagisa
+
+— One Piece
+
+One Piece -- common -- Monkey D. Luffy, Roronoa Zoro
+One Piece -- rare -- Nami, Sanji
+One Piece -- epic -- Usopp
+
+— One Punch Man
+
+One Punch Man -- common -- Saitama, Genos
+One Punch Man -- rare -- Mumen Rider, Tatsumaki
+One Punch Man -- epic -- King
+
+— Oshi no Ko
+
+Oshi no Ko -- common -- Aqua Hoshino, Ruby Hoshino
+Oshi no Ko -- rare -- Ai Hoshino
+Oshi no Ko -- epic -- Kana Arima, Akame Kurokawa
+
+— Parasyte
+
+Parasyte -- common -- Shinichi Izumi, Migi
+Parasyte -- rare -- Satomi Murano
+Parasyte -- epic -- Ryoko Tamiya
+
+— Pokémon
+
+Pokémon -- common -- Ash Ketchum, Pikachu
+Pokémon -- rare -- Brock
+Pokémon -- epic -- Misty
+
+— Psycho-Pass
+
+Psycho-Pass -- common -- Akane Tsunemori, Shinya Kogami
+Psycho-Pass -- rare -- Nobuchika Ginoza, Yayoi Kunizuka
+Psycho-Pass -- epic -- Shogo Makishima
+
+— Ranma ½
+
+Ranma ½ -- common -- Ranma Saotome, Akane Tendo
+Ranma ½ -- rare -- Ryoga Hibiki
+Ranma ½ -- epic -- Shampoo
+
+— Re:Zero
+
+Re:Zero -- common -- Subaru Natsuki, Emilia
+Re:Zero -- rare -- Rem, Ram
+Re:Zero -- epic -- Beatrice
+
+— Sailor Moon
+
+Sailor Moon -- common -- Usagi Tsukino, Mamoru Chiba
+Sailor Moon -- rare -- Ami Mizuno, Rei Hino
+Sailor Moon -- epic -- Minako Aino
+
+— Samurai Champloo
+
+Samurai Champloo -- common -- Mugen, Jin
+Samurai Champloo -- rare -- Fuu, Sara
+Samurai Champloo -- epic -- Okuru
+
+— Solo Leveling
+
+Solo Leveling -- common -- Sung Jin-Woo, Cha Hae-In
+Solo Leveling -- rare -- Beru
+Solo Leveling -- epic -- Yoo Jin-Ho
+
+— Spy x Family
+
+Spy x Family -- common -- Anya Forger
+Spy x Family -- rare -- Loid Forger, Yor Forger
+Spy x Family -- epic -- Damian Desmond
+
+— Steins;Gate
+
+Steins;Gate -- common -- Rintarou Okabe, Kurisu Makise
+Steins;Gate -- rare -- Mayuri Shiina, Itaru "Daru" Hashida
+Steins;Gate -- epic -- Suzuha Amane
+
+— Sword Art Online
+
+Sword Art Online -- common -- Kirito, Asuna
+Sword Art Online -- epic -- Eugeo, Alice
+
+— The Apothecary Diaries
+
+The Apothecary Diaries -- common -- Maomao, Jinshi
+The Apothecary Diaries -- rare -- Loulan
+The Apothecary Diaries -- epic -- Loumen
+
+— The Seven Deadly Sins
+
+The Seven Deadly Sins -- common -- Meliodas, Elizabeth
+The Seven Deadly Sins -- rare -- Ban, King
+The Seven Deadly Sins -- epic -- Diane
+
+— Tokyo Ghoul
+
+Tokyo Ghoul -- common -- Ken Kaneki, Touka Kirishima
+Tokyo Ghoul -- rare -- Rize Kamishiro
+Tokyo Ghoul -- epic -- Juuzou Suzuya
+
+— Tokyo Revengers
+
+Tokyo Revengers -- common -- Takemichi Hanagaki, Mikey
+Tokyo Revengers -- rare -- Draken
+Tokyo Revengers -- epic -- Hina Tachibana
+
+— Vinland Saga
+
+Vinland Saga -- common -- Thorfinn, Askeladd
+Vinland Saga -- rare -- Canute, Thorkell
+Vinland Saga -- epic -- Bjorn
+
+— Violet Evergarden
+
+Violet Evergarden -- common -- Violet Evergarden
+Violet Evergarden -- epic -- Gilbert Bougainvillea
+
+— Your Lie in April
+
+Your Lie in April -- common -- Kousei Arima
+Your Lie in April -- rare -- Kaori Miyazono
+Your Lie in April -- epic -- Ryota Watari
+
+— Your Name
+
+Your Name -- rare -- Taki Tachibana, Mitsuha Miyamizu
+
+— Yuri!! on Ice
+
+Yuri!! on Ice -- common -- Yuuri Katsuki, Viktor Nikiforov
+Yuri!! on Ice -- rare -- Yuri Plisetsky, Phichit Chulanont
+Yuri!! on Ice -- epic -- Christophe Giacometti
